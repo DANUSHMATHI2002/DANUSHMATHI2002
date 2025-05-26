@@ -1,4 +1,4 @@
-[![MasterHead]([[https://cdn-images-1.medium.com/fit/t/1600/480/1*RSTMJ8cS8XYU-d2yJkm2Jg.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fdata-analytics-animation--311381761730704419%2F&psig=AOvVaw3y42nWsNepzlddsGboPF7S&ust=1748350687027000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCPtP-XwY0DFQAAAAAdAAAAABAo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AKnowledge_Is_Human_Homepage_Animated_Banner.gif&psig=AOvVaw2YSK6jxwsadqYxLIhQyt8h&ust=1748350890440000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIj2k9-YwY0DFQAAAAAdAAAAABAc)))](https://danushmathi.pages.dev/)
+[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif)](https://srivarshan.org)
 <h1 align="center">Hi 👋, I'm Danushmathi P</h1>
 <h3 align="center">A passionate Data scientist, currently in London (LND)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/developer.gif">

@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Sience**
 
-- 💬 Ask me about **Markerting-Strateges, Data Science**
+- 💬 Ask me about **Data Science,Markerting-Strategies,Graphic Designing**
 
 - 📫 How to reach me **danushmathip@gmail.com**
 

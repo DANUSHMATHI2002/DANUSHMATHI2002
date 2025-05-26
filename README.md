@@ -1,4 +1,6 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/hd/92bd0f87519971.5dba93f9d9a25.gif)](https://danushmathi.pages.dev/)
+<a href="https://danushmathi.pages.dev/">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/92bd0f87519971.5dba93f9d9a25.gif" alt="MasterHead" style="width: 100%; max-width: 800px; height: auto;">
+</a>
 <h1 align="center">Hi 👋, I'm Danushmathi P</h1>
 <h3 align="center">A passionate Data scientist, currently in London (LND)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/developer.gif">

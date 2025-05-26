@@ -1,6 +1,4 @@
-<a href="https://danushmathi.pages.dev/">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/92bd0f87519971.5dba93f9d9a25.gif" alt="MasterHead" style="width: 100%; max-width: 400px; height: auto;">
-</a>
+[![MasterHead](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)](hhttps://danushmathi.pages.dev/)
 <h1 align="center">Hi 👋, I'm Danushmathi P</h1>
 <h3 align="center">A passionate Data scientist, currently in London (LND)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/developer.gif">
@@ -8,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/Srivarshan0704" target="blank"><img src="https://portapi.pages.dev/images/srivarshan.svg" alt="srivarshan" /></a> </p>
 
-- 🔭 I’m currently working on **DATA SCIENCE**
+- 🔭 I’m currently working as **Data Scientist**
 
 - 🌱 I’m currently learning **Data Sience**
 
-- 💬 Ask me about **Cloud , AWS, Data Science**
+- 💬 Ask me about **Markerting-Strateges, Data Science**
 
-- 📫 How to reach me **hello@srivarshan.org**
+- 📫 How to reach me **danushmathip@gmail.com**
 
-- 🌐 My site **www.srivarshan.org**
+- 🌐 My site **https://danushmathi.pages.dev/**
 
 - 📑 Repositories **Due to security purpose some of my Repository are Private**
 

@@ -1,9 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)](hhttps://danushmathi.pages.dev/)
 <h1 align="center">Hi 👋, I'm Danushmathi P</h1>
 <h3 align="center">A passionate Data scientist, currently in London (LND)</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/developer.gif">
-
-<p align="left"> <a href="https://twitter.com/Srivarshan0704" target="blank"><img src="https://portapi.pages.dev/images/srivarshan.svg" alt="srivarshan" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif">
 
 - 🔭 I’m currently working as **Data Scientist**
 

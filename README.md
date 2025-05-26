@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/developer.gif">
 
 
-<p align="left"> <a href="https://twitter.com/Srivarshan0704" target="blank"><img src="https://portapi.pages.dev/images/srivarshan.svg" alt="srivarshan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Srivarshan0704" target="blank"><img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" alt="Danushmathi" /></a> </p>
 
 - 🔭 I’m currently working as **Data Scientist**
 

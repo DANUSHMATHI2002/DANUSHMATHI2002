@@ -131,44 +131,7 @@ Chat interface for querying CSV data in natural language.
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,r,cpp,bash,linux,git,github,gitlab,docker,kubernetes,aws,gcp,terraform,jenkins,mysql,mongodb,sqlite,pytorch,tensorflow,sklearn,pandas,opencv,fastapi,react,vite,nodejs,spark,kafka,hadoop,matlab&perline=11" alt="Tech stack icons" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" alt="XGBoost">
-  <img src="https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square" alt="SHAP">
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square" alt="MLflow">
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square" alt="Airflow">
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square" alt="Snowflake">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square" alt="Tableau">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square" alt="Jupyter">
-  <img src="https://img.shields.io/badge/Seaborn-4C9BC0?style=flat-square" alt="Seaborn">
-</p>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DANUSHMATHI2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANUSHMATHI2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DANUSHMATHI2002&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DANUSHMATHI2002&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-</p>
-
-<!-- Animated contribution snake (needs the GitHub Action in .github/workflows/snake.yml) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DANUSHMATHI2002/DANUSHMATHI2002/output/github-snake-dark.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/DANUSHMATHI2002/DANUSHMATHI2002/output/github-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/DANUSHMATHI2002/DANUSHMATHI2002/main/skills-snake.svg" alt="Animated snake moving around my tech stack: Python, R, SQL, C++, Docker, Kubernetes, AWS, PyTorch, TensorFlow, Spark, Kafka, FastAPI, React and more" width="100%" />
 </p>
 
 ---

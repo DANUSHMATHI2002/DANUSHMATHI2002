@@ -1,188 +1,300 @@
-<!-- Animated header banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Danushmathi%20Pathmanaban&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&fontColor=ffffff" alt="Danushmathi Pathmanaban banner" />
-</p>
-
-<!-- Typing animation -->
-<p align="center">
-  <a href="https://danuportfolio.framer.website">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=760&height=50&lines=MSc+Data+Science+%40+University+of+Hertfordshire;Building+end-to-end+ML+systems;From+data+pipelines+to+deployed+dashboards;Open+to+Data+%26+Software+roles+in+the+UK" alt="Typing animation" />
-  </a>
-</p>
+<a href="https://danuportfolio.framer.website">
+  <img src="assets/hero.svg" alt="Danushmathi P — a hen on a nest laying a golden egg" width="100%" />
+</a>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/danushmathi-p-865b11245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:danushmathip@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://danuportfolio.framer.website"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/danushmathi-p-865b11245/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://danuportfolio.framer.website"><img src="https://img.shields.io/badge/Portfolio-Visit-8A5A2B?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:danushmathip@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-E5383B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## 👋 About Me
-
-I build data and machine learning systems end to end: data pipelines, model development, explainability, APIs, and dashboards that people can actually use. I hold an **MSc in Data Science** and a **B.Tech in Information Technology (First Class with Distinction)**, and I interned at **10xscale.ai** as a Data Scientist and Full-Stack Developer.
-
-🔎 **Open to** graduate and entry-level roles in Data Science, Machine Learning, Data Analytics, and Software Engineering in the UK.
-
----
-
-## 🚀 Featured Projects
-
-*Click a project to expand it.*
+## 🪺 Inside the nest
 
 <details open>
-<summary><b>Customer Churn Prediction Platform</b> — production-style ML pipeline on AWS</summary>
+<summary><b>🐔 About me</b></summary>
 <br>
 
-Covers data processing, model training, experiment tracking, explainability, and model serving on cloud infrastructure.
-
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square)
-![SHAP](https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square)
+- 🎓 MSc Data Science at the **University of Hertfordshire**, after a B.Tech in Information Technology (First Class with Distinction)
+- 💼 Data Scientist and Full-Stack Developer intern at **10xscale.ai**
+- 🌱 Currently learning: **Data Science**
+- 💬 Ask me about: **Data Science, marketing strategy, graphic design**
+- 🧑🏻‍💻 **11 projects** so far, across web and data science (some repositories are private)
+- 📫 Reach me at **danushmathip@gmail.com**
+- ⚡ Fun fact: *"The only way to do great work is to love what you do. If you haven't found it yet, keep looking and don't settle."*
 
 </details>
+
+---
+
+## 🧺 The egg basket
+
+<sub>Click an egg to crack it open.</sub>
+
+<!-- Add repo or demo links inside each egg, e.g. [View the project](https://github.com/DANUSHMATHI2002/REPO-NAME) -->
 
 <details open>
-<summary><b>AquaTox</b> — MSc final project, QSAR fish bioconcentration classifier with dashboard</summary>
+<summary><b>🥚 AquaTox AI: my MSc final project</b></summary>
 <br>
 
-Classifies chemicals as safe or dangerous for fish bioconcentration using **779 chemicals and 9 molecular descriptors**. Compared Logistic Regression, Random Forest, and XGBoost; **XGBoost performed best (F1 0.827)**. Includes a full-stack dashboard with model explanations.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
-![SHAP](https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square)
+Predicts whether chemicals build up in fish (safe vs dangerous) using QSAR modelling. I compared Logistic Regression, Random Forest and XGBoost on 779 chemicals and 9 molecular descriptors. XGBoost won with an F1 of 0.827. It comes with a full-stack dashboard built on FastAPI, React and Vite, with SHAP explanations and SQLite behind it.
 
 </details>
 
 <details>
-<summary><b>LeadPulse</b> — lead scoring model deployed on Hugging Face</summary>
+<summary><b>🥚 Customer Churn Prediction Platform</b></summary>
 <br>
 
-Random Forest lead scoring with tracked experiments, deployed on Hugging Face.
+A churn prediction platform built with production-style tooling.
 
-![Random Forest](https://img.shields.io/badge/Random%20Forest-2E8B57?style=flat-square)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logoColor=black)
+**Stack:** Kafka, PySpark, XGBoost, MLflow, SHAP, FastAPI, Airflow, Terraform, AWS
 
 </details>
 
 <details>
-<summary><b>Audio Deepfake Detection</b> — 92.3% accuracy at 43 FPS</summary>
+<summary><b>🥚 LeadPulse</b></summary>
 <br>
 
-Detects synthetic speech using a ResNet-18 model, reaching **92.3% accuracy at 43 FPS**.
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square)
-![ResNet-18](https://img.shields.io/badge/ResNet--18-555555?style=flat-square)
+Lead scoring with a Random Forest, tracked in MLflow and deployed on Hugging Face.
 
 </details>
 
 <details>
-<summary><b>MetroFlow</b> — smart demand forecasting</summary>
+<summary><b>🥚 MetroFlow</b></summary>
 <br>
 
-Demand forecasting using time-series modelling and K-Means clustering.
-
-![Time Series](https://img.shields.io/badge/Time%20Series-1F6FEB?style=flat-square)
-![K-Means](https://img.shields.io/badge/K--Means-6E40C9?style=flat-square)
+Demand forecasting with time-series models and K-Means clustering.
 
 </details>
 
 <details>
-<summary><b>Bid.It</b> — farmers' auction platform · Best Project at BitHacks'24</summary>
+<summary><b>🥚 Audio Deepfake Detection</b></summary>
 <br>
 
-Online auction platform for farmers. **Best Project at BitHacks'24**, **published in IJARIIE**, and **patent filed** for the full project.
+A ResNet-18 detector that reaches 92.3% accuracy at 43 FPS.
 
 </details>
 
 <details>
-<summary><b>Stock Forecasting & Portfolio Optimizer</b></summary>
+<summary><b>🥚 Bid.It</b></summary>
 <br>
 
-Forecasting and portfolio optimisation with visualised outputs.
+An auction platform for farmers. Best Project at BitHacks'24, published in IJARIIE, and a patent has been filed for it.
 
 </details>
 
 <details>
-<summary><b>TechGPT</b> — chat with your CSV</summary>
+<summary><b>🥚 TechGPT</b></summary>
 <br>
 
-Chat interface for querying CSV data in natural language.
+Chat with your CSV files, built with OpenAI and Streamlit.
 
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square)
+</details>
+
+<details>
+<summary><b>🥚 Stock Forecasting and Portfolio Optimizer</b></summary>
+<br>
+
+Stock forecasting and portfolio optimisation, with visualised outputs.
+
+</details>
+
+<details>
+<summary><b>🏅 Shiny things</b></summary>
+<br>
+
+- 🏆 Best Project, BitHacks'24
+- 📄 Published in IJARIIE
+- 📜 Patents filed, including a high-security medical e-prescription system
+- 🎓 B.Tech Information Technology, First Class with Distinction
 
 </details>
 
 ---
 
-## 🛠️ Tech Stack
+## 🐣 Skills
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DANUSHMATHI2002/DANUSHMATHI2002/main/skills-snake.svg" alt="Animated snake moving around my tech stack: Python, R, SQL, C++, Docker, Kubernetes, AWS, PyTorch, TensorFlow, Spark, Kafka, FastAPI, React and more" width="100%" />
+  <img src="assets/skills.svg" alt="Six nests where eggs crack open and chicks hatch: languages, ML and AI, data, visualisation and BI, web and APIs, and cloud and IT" width="100%" />
 </p>
+
+<sub>Open a nest to see everything inside. Hover an icon for its name.</sub>
+
+<details open>
+<summary><b>🐍 Languages</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" title="Python" width="44" height="44" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="44" height="44" />
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" title="Bash" width="44" height="44" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="44" height="44" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" title="MATLAB" width="44" height="44" />
+  <br><sub>Also: SQL</sub>
+</p>
+
+</details>
+
+<details>
+<summary><b>🧠 ML and AI</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" title="TensorFlow" width="44" height="44" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" title="PyTorch" width="44" height="44" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" title="scikit-learn" width="44" height="44" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" title="OpenCV" width="44" height="44" />
+  <br><sub>Also: XGBoost, MLflow, SHAP</sub>
+</p>
+
+</details>
+
+<details>
+<summary><b>🗄️ Data</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="44" height="44" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="44" height="44" />
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark (PySpark)" title="Apache Spark (PySpark)" width="44" height="44" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" title="Apache Kafka" width="44" height="44" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" title="Apache Airflow" width="44" height="44" />
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" title="Snowflake" width="44" height="44" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="44" height="44" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="44" height="44" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" width="44" height="44" />
+</p>
+
+</details>
+
+<details>
+<summary><b>📊 Viz and BI</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" title="Tableau" width="44" height="44" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" title="Power BI" width="44" height="44" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" title="Seaborn" width="44" height="44" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" title="Jupyter" width="44" height="44" />
+  <br><sub>Also: SHAP explainers</sub>
+</p>
+
+</details>
+
+<details>
+<summary><b>🌐 Web and APIs</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="44" height="44" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="44" height="44" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" title="Vite" width="44" height="44" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" title="Streamlit" width="44" height="44" />
+  <br><sub>Also: REST APIs, Hugging Face</sub>
+</p>
+
+</details>
+
+<details>
+<summary><b>☁️ Cloud and IT</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" title="AWS" width="44" height="44" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" title="Google Cloud" width="44" height="44" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" width="44" height="44" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" title="Kubernetes" width="44" height="44" />
+  <img src="https://www.svgrepo.com/show/376353/terraform.svg" alt="Terraform" title="Terraform" width="44" height="44" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" title="Jenkins" width="44" height="44" />
+  <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" title="Cloudflare" width="44" height="44" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="44" height="44" />
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" title="GitLab" width="44" height="44" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="44" height="44" />
+</p>
+
+</details>
 
 ---
 
-## 💼 Experience & Education
+## 🐔 Ask the hen
 
-<details>
-<summary><b>Experience</b></summary>
+<sub>Click a question to see the answer.</sub>
+
+<details open>
+<summary><b>🥚 Why should you hire me?</b></summary>
 <br>
 
-**Data Scientist & Full-Stack Developer (Intern)** · 10xscale.ai, UK
-Data science and engineering work, including presenting findings to clients.
-
-**Digital Marketing Analyst** · Innfini Homes, Dubai (remote) · Summer 2024
-
-**J.P. Morgan Virtual Experience Programme** · Forage *(virtual simulation, not employment)*
+Because I hatch the whole idea, not just the first crack. In my projects I go from raw data to a model, an API and a dashboard that someone can actually use. AquaTox AI is a good example: an XGBoost classifier (F1 0.827) behind a FastAPI and React dashboard, with SHAP explanations built in. I have also presented findings to clients during my internship at 10xscale.ai, and I care about explaining technical work in plain language.
 
 </details>
 
 <details>
-<summary><b>Education</b></summary>
+<summary><b>🐣 What can I do for your team?</b></summary>
 <br>
 
-**MSc Data Science** · University of Hertfordshire · 2026
-
-**B.Tech Information Technology** · Bannari Amman Institute of Technology
-First Class with Distinction · GPA 9.06/10
+- Build and evaluate ML models for classification, forecasting and lead scoring
+- Ship them behind APIs and dashboards with FastAPI, React and Streamlit
+- Set up production-style pipelines with Kafka, PySpark, Airflow, MLflow, Terraform and AWS
+- Explain model decisions with SHAP
+- Turn results into something clients and non-technical people can follow
 
 </details>
 
 <details>
-<summary><b>Recognition</b></summary>
+<summary><b>🪺 What is the best example of my work?</b></summary>
 <br>
 
-- 🏆 **Best Project**, BitHacks'24 (Bid.It)
-- 📄 **Published** in IJARIIE (Bid.It)
-- 📝 **Patents filed** for Bid.It and for a high-security medical e-prescription system
-- 💻 Hackathon and ML competition participant: BitHacks'24, DPBH'23
+Two projects sit at the top of the nest.
+
+**AquaTox AI** is my MSc final project. It classifies fish bioconcentration from 779 chemicals and 9 molecular descriptors, and comes with a full-stack dashboard.
+
+**Customer Churn Prediction Platform** is built with Kafka, PySpark, XGBoost, MLflow, SHAP, FastAPI, Airflow, Terraform and AWS, the way a production system would be.
 
 </details>
 
----
+<details>
+<summary><b>🔍 How do I make sure my results are right?</b></summary>
+<br>
 
-## 📫 Get in Touch
+I check every egg before it leaves the nest. While building AquaTox I caught a class distribution chart with its Safe and Dangerous labels swapped, because pandas sorted the counts by frequency instead of by class. It was a one-line fix (`.sort_index()`), but the chart would have told the wrong story. Small bug, big lesson: always check a chart against the raw counts.
 
-<p align="center">
-  <a href="mailto:danushmathip@gmail.com">danushmathip@gmail.com</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/danushmathi-p-865b11245/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://danuportfolio.framer.website">Portfolio</a>
-</p>
+</details>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
-</p>
+<details>
+<summary><b>🎓 What is my background?</b></summary>
+<br>
+
+- MSc Data Science, University of Hertfordshire
+- B.Tech Information Technology, First Class with Distinction
+- Data Scientist and Full-Stack Developer intern at 10xscale.ai
+- Digital Marketing Analyst at Innfini Homes (remote, summer 2024)
+- Best Project at BitHacks'24, published in IJARIIE, patents filed
+
+</details>
+
+<details>
+<summary><b>🐔 What else can I do besides code?</b></summary>
+<br>
+
+I can talk marketing strategy and graphic design, and I have worked customer-facing jobs alongside my studies, so I am comfortable working with people and under pressure.
+
+</details>
+
+<details>
+<summary><b>🌾 What am I looking for next?</b></summary>
+<br>
+
+A graduate role in data science or technology where I can keep building things end to end.
+
+</details>
+
+<details>
+<summary><b>📬 How do you reach me?</b></summary>
+<br>
+
+Email me at **danushmathip@gmail.com** or message me on [LinkedIn](https://www.linkedin.com/in/danushmathi-p-865b11245/).
+
+</details>
+
+<p align="center">🥚 🥚 🐣 🐥<br><sub>Thanks for stopping by. Crack an egg, meet a chick.</sub></p>

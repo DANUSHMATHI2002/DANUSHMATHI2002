@@ -1,53 +1,225 @@
-[![MasterHead](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)](hhttps://danushmathi.pages.dev/)
-<h1 align="center">Hi 👋, I'm Danushmathi P</h1>
-<h3 align="center">A passionate Data scientist, currently in London (LND)</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif">
-
-- 🔭 I’m currently working as **Data Scientist**
-
-- 🌱 I’m currently learning **Data Sience**
-
-- 💬 Ask me about **Data Science,Markerting-Strategies,Graphic Designing**
-
-- 📫 How to reach me **danushmathip@gmail.com**
-
-- 🌐 My site **https://danushmathi.pages.dev/**
-
-- 📑 Repositories **Due to security purpose some of my Repository are Private**
-
-- ⚡ Fun fact **The only to do great works is to love what you do, if you haven't found it yet keep looking and don't settle**
-
-- 🧑🏻‍💻 Projects Done **11 projects including Web & Data Science**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Srivarshan0704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/srivarshan-m-82a935245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://instagram.com/srivarshan.m7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-<a href="https://srivarshan.org/" target="blank"><img align="center" src="https://portapi.pages.dev/images/www.gif" alt="srivarshan" height="40" width="40" /></a>
+<!-- Animated header banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Danushmathi%20Pathmanaban&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&fontColor=ffffff" alt="Danushmathi Pathmanaban banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/22029/amazon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452091/python.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452054/linux.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/392357/extension-file-format-json-document-file-format.svg" alt="tensorflow" width="40" height="40"/> </a>  
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="tensorflow" width="40" height="40"/> </a>   
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="tensorflow" width="35" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376353/terraform.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="seaborn" width="40" height="40"/> </a>
-
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://danuportfolio.framer.website">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=760&height=50&lines=MSc+Data+Science+%40+University+of+Hertfordshire;Building+end-to-end+ML+systems;From+data+pipelines+to+deployed+dashboards;Open+to+Data+%26+Software+roles+in+the+UK" alt="Typing animation" />
+  </a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/srivarshancr7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="srivarshan" /></a></p><br><br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/danushmathi-p-865b11245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:danushmathip@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://danuportfolio.framer.website"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio"></a>
+</p>
+
+---
+
+## 👋 About Me
+
+I build data and machine learning systems end to end: data pipelines, model development, explainability, APIs, and dashboards that people can actually use. I hold an **MSc in Data Science** and a **B.Tech in Information Technology (First Class with Distinction)**, and I interned at **10xscale.ai** as a Data Scientist and Full-Stack Developer.
+
+🔎 **Open to** graduate and entry-level roles in Data Science, Machine Learning, Data Analytics, and Software Engineering in the UK.
+
+---
+
+## 🚀 Featured Projects
+
+*Click a project to expand it.*
+
+<details open>
+<summary><b>Customer Churn Prediction Platform</b> — production-style ML pipeline on AWS</summary>
+<br>
+
+Covers data processing, model training, experiment tracking, explainability, and model serving on cloud infrastructure.
+
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square)
+
+</details>
+
+<details open>
+<summary><b>AquaTox</b> — MSc final project, QSAR fish bioconcentration classifier with dashboard</summary>
+<br>
+
+Classifies chemicals as safe or dangerous for fish bioconcentration using **779 chemicals and 9 molecular descriptors**. Compared Logistic Regression, Random Forest, and XGBoost; **XGBoost performed best (F1 0.827)**. Includes a full-stack dashboard with model explanations.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square)
+
+</details>
+
+<details>
+<summary><b>LeadPulse</b> — lead scoring model deployed on Hugging Face</summary>
+<br>
+
+Random Forest lead scoring with tracked experiments, deployed on Hugging Face.
+
+![Random Forest](https://img.shields.io/badge/Random%20Forest-2E8B57?style=flat-square)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logoColor=black)
+
+</details>
+
+<details>
+<summary><b>Audio Deepfake Detection</b> — 92.3% accuracy at 43 FPS</summary>
+<br>
+
+Detects synthetic speech using a ResNet-18 model, reaching **92.3% accuracy at 43 FPS**.
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square)
+![ResNet-18](https://img.shields.io/badge/ResNet--18-555555?style=flat-square)
+
+</details>
+
+<details>
+<summary><b>MetroFlow</b> — smart demand forecasting</summary>
+<br>
+
+Demand forecasting using time-series modelling and K-Means clustering.
+
+![Time Series](https://img.shields.io/badge/Time%20Series-1F6FEB?style=flat-square)
+![K-Means](https://img.shields.io/badge/K--Means-6E40C9?style=flat-square)
+
+</details>
+
+<details>
+<summary><b>Bid.It</b> — farmers' auction platform · Best Project at BitHacks'24</summary>
+<br>
+
+Online auction platform for farmers. **Best Project at BitHacks'24**, **published in IJARIIE**, and **patent filed** for the full project.
+
+</details>
+
+<details>
+<summary><b>Stock Forecasting & Portfolio Optimizer</b></summary>
+<br>
+
+Forecasting and portfolio optimisation with visualised outputs.
+
+</details>
+
+<details>
+<summary><b>TechGPT</b> — chat with your CSV</summary>
+<br>
+
+Chat interface for querying CSV data in natural language.
+
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square)
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,r,cpp,bash,linux,git,github,gitlab,docker,kubernetes,aws,gcp,terraform,jenkins,mysql,mongodb,sqlite,pytorch,tensorflow,sklearn,pandas,opencv,fastapi,react,vite,nodejs,spark,kafka,hadoop,matlab&perline=11" alt="Tech stack icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" alt="XGBoost">
+  <img src="https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square" alt="SHAP">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square" alt="MLflow">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square" alt="Airflow">
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square" alt="Snowflake">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square" alt="Tableau">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Seaborn-4C9BC0?style=flat-square" alt="Seaborn">
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DANUSHMATHI2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANUSHMATHI2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DANUSHMATHI2002&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DANUSHMATHI2002&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+</p>
+
+<!-- Animated contribution snake (needs the GitHub Action in .github/workflows/snake.yml) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DANUSHMATHI2002/DANUSHMATHI2002/output/github-snake-dark.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/DANUSHMATHI2002/DANUSHMATHI2002/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## 💼 Experience & Education
+
+<details>
+<summary><b>Experience</b></summary>
+<br>
+
+**Data Scientist & Full-Stack Developer (Intern)** · 10xscale.ai, UK
+Data science and engineering work, including presenting findings to clients.
+
+**Digital Marketing Analyst** · Innfini Homes, Dubai (remote) · Summer 2024
+
+**J.P. Morgan Virtual Experience Programme** · Forage *(virtual simulation, not employment)*
+
+</details>
+
+<details>
+<summary><b>Education</b></summary>
+<br>
+
+**MSc Data Science** · University of Hertfordshire · 2026
+
+**B.Tech Information Technology** · Bannari Amman Institute of Technology
+First Class with Distinction · GPA 9.06/10
+
+</details>
+
+<details>
+<summary><b>Recognition</b></summary>
+<br>
+
+- 🏆 **Best Project**, BitHacks'24 (Bid.It)
+- 📄 **Published** in IJARIIE (Bid.It)
+- 📝 **Patents filed** for Bid.It and for a high-security medical e-prescription system
+- 💻 Hackathon and ML competition participant: BitHacks'24, DPBH'23
+
+</details>
+
+---
+
+## 📫 Get in Touch
+
+<p align="center">
+  <a href="mailto:danushmathip@gmail.com">danushmathip@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/danushmathi-p-865b11245/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://danuportfolio.framer.website">Portfolio</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
+</p>

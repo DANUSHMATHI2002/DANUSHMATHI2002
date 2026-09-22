@@ -176,7 +176,7 @@ Stock forecasting and portfolio optimisation, with visualised outputs.
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" title="Tableau" width="44" height="44" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" title="Power BI" width="44" height="44" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" title="Seaborn" width="44" height="44" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" title="Jupyter" width="44" height="44" />
+  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Square%20Logo/squarelogo-greytext-orangebody-greymoons/squarelogo-greytext-orangebody-greymoons.svg" alt="Jupyter" title="Jupyter" width="44" height="44" />
   <br><sub>Also: SHAP explainers</sub>
 </p>
 
@@ -285,7 +285,7 @@ I can talk marketing strategy and graphic design, and I have worked customer-fac
 <summary><b>🌾 What am I looking for next?</b></summary>
 <br>
 
-A graduate role in data science or technology where I can keep building things end to end.
+A data scientist role where I can keep building things end to end.
 
 </details>
 
